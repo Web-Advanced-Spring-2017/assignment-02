@@ -2,7 +2,7 @@
 
 **RESTful Project**
 
-**Due Date: Week 11 - Midnight of 4/5/2017**
+**Due Date: Week 11 - Midnight of 4/8/2017**
 
 ## :star2: [Accept Assignment](https://classroom.github.com/assignment-invitations/36e19048eb7663ae1786db6d71333cef)
 
